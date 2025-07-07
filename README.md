@@ -3,6 +3,11 @@
 Bem-vindo ao repositório do "Pergunte HistórIA"! Este projeto visa treinar uma Inteligência Artificial capaz de responder a dúvidas sobre história, com foco no currículo do Ensino Médio e nas exigências do ENEM. Nosso objetivo é oferecer respostas claras, concisas e informativas, que possam servir como um ponto de partida para o aprofundamento do conhecimento.
 
 ---
+## Como a IA será treinada?
+
+Para garantir que nossa IA seja eficaz e útil, ela está sendo treinada com base em categorias de perguntas frequentes e modelos de respostas que abordam o essencial, sem serem excessivamente longas, mas com potencial para fornecer mais detalhes caso o usuário necessite. Abaixo, você encontrará as 5 categorias de perguntas mais comuns, com exemplos de como a IA é instruída a responder.
+
+---
 ### 1. Grandes Períodos e Eventos Históricos
 
 Esta categoria abrange perguntas sobre épocas marcantes e acontecimentos que moldaram a história.
