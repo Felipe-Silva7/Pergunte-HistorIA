@@ -177,7 +177,9 @@
         <!-- History Toggle Button -->
         
         <!-- History Panel -->
+         
         <section class="w-80 bg-gray-100 rounded-lg shadow-lg ml-6 overflow-hidden flex flex-col history-panel">
+            
             <!-- History Header -->
             <div class="bg-gray-800 text-white px-4 py-3 flex items-center justify-between">
                 <h3 class="font-bold">
@@ -191,6 +193,7 @@
             
             <!-- History Items -->
             <div class="flex-grow overflow-y-auto p-2 timeline relative">
+                
                 <!-- Sample History Item -->
                 <div class="mb-4 pl-8 relative">
                     <div class="absolute left-0 w-4 h-4 rounded-full bg-amber-500 border-2 border-white z-10"></div>
@@ -248,12 +251,18 @@
             <div class="border-t p-2 bg-gray-100 text-center">
                 <button class="text-sm text-blue-600 hover:underline">Ver mais conversas</button>
             </div>
+            <div>
+            <button id="historyToggle" class="absolute left-4 top-1/2 transform -translate-y-1/2 z-10 bg-gray-200 hover:bg-gray-300 rounded-full w-8 h-8 flex items-center justify-center transition-all duration-300" style="transform-origin: center; left: -14px;">
+            <i class="fas fa-chevron-right text-gray-700"></i>
+           </button>
+         </div>
         </section>
+            
+        
+       
         
     </main>
-    <button id="historyToggle" class="absolute left-4 top-1/2 transform -translate-y-1/2 z-10 bg-gray-200 hover:bg-gray-300 rounded-full w-8 h-8 flex items-center justify-center transition-all duration-300" style="transform-origin: center; left: -14px;">
-            <i class="fas fa-chevron-right text-gray-700"></i>
-        </button>
+
 
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-6 mt-8">
