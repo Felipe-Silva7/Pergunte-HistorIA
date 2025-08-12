@@ -122,3 +122,8 @@ Perguntas sobre como a história é construída e as ferramentas utilizadas pelo
     * **Resposta:** O historiador desempenha um papel fundamental na construção do conhecimento histórico ao **pesquisar, analisar e interpretar fontes** para compreender e narrar o passado. Ele não apenas descreve fatos, mas também busca entender os contextos, as causas e as consequências dos eventos, sempre com uma postura crítica e metodológica.
 
 ---
+
+## 👥 Autores
+
+- **Antônio Felipe** – [@Felipe-Silva7](https://github.com/Felipe-Silva7)
+- **Maria da Consolação** – 
